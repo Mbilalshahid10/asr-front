@@ -1,53 +1,53 @@
-.doc-patient {
+/* .doc-patient {
     display: flex;
     justify-content: space-around;
-}
+} */
 
-.main-header {
+/* .main-header {
     align-self: center;
-}
+} */
 
-.main-div {
+/* .main-div {
     display: flex;
     width: 100%;
     height: 100vh;
     flex-direction: column;
-}
+} */
 
-hr {
+/* hr {
     margin: 0;
     line-height: 0;
-}
+} */
 
 .inner-divs {
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 100%;
-    padding: 12px;
+    padding: 6px;
 }
 
-.recorder-div {
+/* .recorder-div {
     display: flex;
     justify-content: center;
-}
+} */
 
-button {
+/* button {
     background-color: gray;
     border-radius: 8px;
     padding: 16px;
     color: white;
     cursor: pointer;
-}
+} */
 
-#chat {
+/* #chat {
     display: flex;
     width: 100%;
     margin-top: 24px;
     align-items: center;
     flex-direction: column;
     row-gap: 6px;
-}
+} */
 
 .user-interaction {
     display: flex;
